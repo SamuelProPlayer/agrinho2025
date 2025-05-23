@@ -1,4 +1,4 @@
-# agrinho2025
+
 Jogo criado para o concurso de programação agrinho 2025.
 
 Tractor Racing, corra com seu trator em nossa Grand Prix e se torne o campeão no menor tempo possível.
