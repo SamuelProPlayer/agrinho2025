@@ -90,3 +90,49 @@ header p {
 .footer p {
     font-size: 1rem;
 }
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.flashcard-container {
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid #4CAF50;
+  border-radius: 8px;
+  width: 80%;
+  max-width: 600px;
+  margin-top: 50px;
+  background-color: #f9f9f9;
+}
+
+.flashcard h2 {
+  font-size: 1.5em;
+}
+
+.flashcard p {
+  font-size: 1.2em;
+}
+
+.buttons button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.review {
+  margin-top: 20px;
+  background-color: #f1f1f1;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+ul {
+  text-align: left;
+}
