@@ -36,7 +36,7 @@ header p {
 .intro {
     background-color: #f1faee;
     padding: 40px 20px;
-}
+}s.
 
 .intro h2 {
     text-align: center;
@@ -79,7 +79,7 @@ header p {
 /* Rodapé */
 .footer {
     background-color: #00b140;
-    color: #fff;
+    color: #000000;
     padding: 20px 0;
 }
 
